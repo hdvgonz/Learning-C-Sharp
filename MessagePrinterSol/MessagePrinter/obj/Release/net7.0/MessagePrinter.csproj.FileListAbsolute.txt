@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\bin\Release\net7.0\MessagePrinter.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\bin\Release\net7.0\MessagePrinter.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\bin\Release\net7.0\MessagePrinter.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\bin\Release\net7.0\MessagePrinter.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\bin\Release\net7.0\MessagePrinter.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\refint\MessagePrinter.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\MessagePrinter.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\MessagePrinter\obj\Release\net7.0\ref\MessagePrinter.dll

@@ -1,0 +1,20 @@
+# Archivos binarios
+*.exe
+*.dll
+*.obj
+
+# Archivos de configuración
+*.config
+*.json
+
+# Archivos de salida
+*.log
+*.dmp
+
+# Archivos de caché
+*.cache
+
+# Otros archivos
+*.vs
+*.suo
+*.user

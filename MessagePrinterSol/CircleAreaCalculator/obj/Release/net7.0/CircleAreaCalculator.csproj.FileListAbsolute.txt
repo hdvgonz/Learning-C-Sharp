@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\bin\Release\net7.0\CircleAreaCalculator.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\bin\Release\net7.0\CircleAreaCalculator.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\bin\Release\net7.0\CircleAreaCalculator.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\bin\Release\net7.0\CircleAreaCalculator.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\bin\Release\net7.0\CircleAreaCalculator.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\refint\CircleAreaCalculator.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\CircleAreaCalculator.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\CircleAreaCalculator\obj\Release\net7.0\ref\CircleAreaCalculator.dll

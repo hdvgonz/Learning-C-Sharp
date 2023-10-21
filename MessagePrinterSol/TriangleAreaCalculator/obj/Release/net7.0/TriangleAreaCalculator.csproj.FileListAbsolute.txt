@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\bin\Release\net7.0\TriangleAreaCalculator.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\bin\Release\net7.0\TriangleAreaCalculator.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\bin\Release\net7.0\TriangleAreaCalculator.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\bin\Release\net7.0\TriangleAreaCalculator.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\bin\Release\net7.0\TriangleAreaCalculator.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\refint\TriangleAreaCalculator.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\TriangleAreaCalculator.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\MessagePrinterSol\TriangleAreaCalculator\obj\Release\net7.0\ref\TriangleAreaCalculator.dll

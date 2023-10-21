@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\bin\Debug\net7.0\StructureProgrammingExample.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\bin\Debug\net7.0\StructureProgrammingExample.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\bin\Debug\net7.0\StructureProgrammingExample.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\bin\Debug\net7.0\StructureProgrammingExample.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\bin\Debug\net7.0\StructureProgrammingExample.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\refint\StructureProgrammingExample.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\StructureProgrammingExample.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StructureProgrammingExampleSol\StructureProgrammingExample\obj\Debug\net7.0\ref\StructureProgrammingExample.dll
