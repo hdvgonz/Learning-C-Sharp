@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\bin\Release\net7.0\List.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\bin\Release\net7.0\List.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\bin\Release\net7.0\List.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\bin\Release\net7.0\List.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\bin\Release\net7.0\List.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\refint\List.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\List.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\List\obj\Release\net7.0\ref\List.dll

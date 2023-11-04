@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\bin\Debug\net7.0\PlayingBanjo.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\bin\Debug\net7.0\PlayingBanjo.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\bin\Debug\net7.0\PlayingBanjo.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\bin\Debug\net7.0\PlayingBanjo.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\bin\Debug\net7.0\PlayingBanjo.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\refint\PlayingBanjo.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\PlayingBanjo.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\C#_FundamentalsSOl\PlayingBanjo\obj\Debug\net7.0\ref\PlayingBanjo.dll

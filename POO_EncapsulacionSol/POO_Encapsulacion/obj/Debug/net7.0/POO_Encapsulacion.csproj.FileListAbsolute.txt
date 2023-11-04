@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\bin\Debug\net7.0\POO_Encapsulacion.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\bin\Debug\net7.0\POO_Encapsulacion.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\bin\Debug\net7.0\POO_Encapsulacion.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\bin\Debug\net7.0\POO_Encapsulacion.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\bin\Debug\net7.0\POO_Encapsulacion.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\refint\POO_Encapsulacion.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\POO_Encapsulacion.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\POO_EncapsulacionSol\POO_Encapsulacion\obj\Debug\net7.0\ref\POO_Encapsulacion.dll

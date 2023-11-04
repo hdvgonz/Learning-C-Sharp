@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\bin\Debug\net7.0\EnumExample.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\bin\Debug\net7.0\EnumExample.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\bin\Debug\net7.0\EnumExample.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\bin\Debug\net7.0\EnumExample.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\bin\Debug\net7.0\EnumExample.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\refint\EnumExample.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\EnumExample.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\EnumExampleSol\EnumExample\obj\Debug\net7.0\ref\EnumExample.dll

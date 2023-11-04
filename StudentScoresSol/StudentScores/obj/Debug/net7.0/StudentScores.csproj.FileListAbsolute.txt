@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\bin\Debug\net7.0\StudentScores.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\bin\Debug\net7.0\StudentScores.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\bin\Debug\net7.0\StudentScores.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\bin\Debug\net7.0\StudentScores.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\bin\Debug\net7.0\StudentScores.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\refint\StudentScores.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\StudentScores.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\StudentScoresSol\StudentScores\obj\Debug\net7.0\ref\StudentScores.dll

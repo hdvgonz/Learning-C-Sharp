@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\bin\Debug\net7.0\Colecciones.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\bin\Debug\net7.0\Colecciones.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\bin\Debug\net7.0\Colecciones.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\bin\Debug\net7.0\Colecciones.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\bin\Debug\net7.0\Colecciones.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\refint\Colecciones.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\Colecciones.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\Colecciones\obj\Debug\net7.0\ref\Colecciones.dll

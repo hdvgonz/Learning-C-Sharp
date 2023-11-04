@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\bin\Debug\net7.0\StacksAndQuees.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\bin\Debug\net7.0\StacksAndQuees.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\bin\Debug\net7.0\StacksAndQuees.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\bin\Debug\net7.0\StacksAndQuees.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\bin\Debug\net7.0\StacksAndQuees.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\refint\StacksAndQuees.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\StacksAndQuees.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\ArraysSol\StacksAndQuees\obj\Debug\net7.0\ref\StacksAndQuees.dll

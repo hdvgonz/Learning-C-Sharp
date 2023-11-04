@@ -1,0 +1,14 @@
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\bin\Debug\net7.0\DivisionTryCatchPractice.exe
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\bin\Debug\net7.0\DivisionTryCatchPractice.deps.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\bin\Debug\net7.0\DivisionTryCatchPractice.runtimeconfig.json
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\bin\Debug\net7.0\DivisionTryCatchPractice.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\bin\Debug\net7.0\DivisionTryCatchPractice.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.AssemblyInfoInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.AssemblyInfo.cs
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\refint\DivisionTryCatchPractice.dll
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.pdb
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\DivisionTryCatchPractice.genruntimeconfig.cache
+C:\ESTUDIOS_UDEMY_STUDIES\C#_NET\DivisionTryCatchPracticeSol\DivisionTryCatchPractice\obj\Debug\net7.0\ref\DivisionTryCatchPractice.dll
